@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahiiddd/Leetcode/tree/master/0075-sort-colors) |
+| [1044-find-common-characters](https://github.com/shahiiddd/Leetcode/tree/master/1044-find-common-characters) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahiiddd/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahiiddd/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
@@ -18,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [1044-find-common-characters](https://github.com/shahiiddd/Leetcode/tree/master/1044-find-common-characters) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shahiiddd/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahiiddd/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shahiiddd/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/shahiiddd/Leetcode/tree/master/1044-find-common-characters) |
 <!---LeetCode Topics End-->
